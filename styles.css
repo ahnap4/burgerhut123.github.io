@@ -34,6 +34,7 @@ nav ul li a {
   color: white;
   font-weight: bold;
   transition: color 0.3s ease;
+    font size: 2.3 rem;
 }
 
 nav ul li a:hover {
